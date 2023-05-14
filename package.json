@@ -1,0 +1,53 @@
+{
+  "name": "@eco.js/cli",
+  "version": "0.0.1-alpha.1",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "type": "commonjs",
+  "access": "public",
+  "scripts": {
+    "build": "npx tsc",
+    "lint": "npx eslint ./src/ --fix"
+  },
+  "keywords": [
+    "RCON",
+    "ECO",
+    "API",
+    "CLI"
+  ],
+  "author": "bombitmanbomb",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/cli-color": "^2.0.2",
+    "@types/clui": "^0.3.1",
+    "@types/node": "^20.1.4",
+    "@types/yargs": "^17.0.24",
+    "@typescript-eslint/eslint-plugin": "^5.50.0",
+    "@typescript-eslint/parser": "^5.59.0",
+    "eslint": "^8.33.0",
+    "prettier": "^2.8.3",
+    "typedoc": "^0.24.4",
+    "typescript": "^5.0.4"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecojs/cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ecojs/cli/issues"
+  },
+  "homepage": "https://github.com/ecojs/cli#readme",
+  "description": "A CLI tool for Eco.js",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "clui": "^0.3.6",
+    "eco.js": "^0.0.1",
+    "yargs": "^17.7.2"
+  }
+}
