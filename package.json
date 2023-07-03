@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/cli-color": "^2.0.2",
     "@types/clui": "^0.3.1",
-    "@types/node": "^20.1.4",
+    "@types/node": "^20.3.3",
     "@types/yargs": "^17.0.24",
     "@typescript-eslint/eslint-plugin": "^5.50.0",
     "@typescript-eslint/parser": "^5.59.0",
