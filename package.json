@@ -18,13 +18,15 @@
   "author": "bombitmanbomb",
   "license": "MIT",
   "devDependencies": {
+    "@eslint/eslintrc": "^3.1.0",
+    "@eslint/js": "^9.11.1",
     "@types/cli-color": "^2.0.2",
     "@types/clui": "^0.3.1",
     "@types/node": "^20.1.4",
     "@types/yargs": "^17.0.24",
-    "@typescript-eslint/eslint-plugin": "^5.50.0",
-    "@typescript-eslint/parser": "^5.59.0",
-    "eslint": "^8.33.0",
+    "@typescript-eslint/eslint-plugin": "^8.7.0",
+    "@typescript-eslint/parser": "^8.7.0",
+    "eslint": "^9.0.0",
     "prettier": "^3.0.0",
     "typedoc": "^0.26.0",
     "typescript": "^5.0.4"
