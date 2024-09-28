@@ -47,7 +47,7 @@
   "dependencies": {
     "cli-color": "^2.0.3",
     "clui": "^0.3.6",
-    "eco.js": "^0.0.1",
+    "eco.js": "^1.0.0",
     "yargs": "^17.7.2"
   }
 }
