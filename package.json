@@ -28,7 +28,7 @@
     "@typescript-eslint/parser": "^8.7.0",
     "eslint": "^9.0.0",
     "prettier": "^3.0.0",
-    "typedoc": "^0.26.0",
+    "typedoc": "^0.28.0",
     "typescript": "^5.0.4"
   },
   "engines": {
